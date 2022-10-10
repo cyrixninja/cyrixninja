@@ -73,7 +73,7 @@ Hi, I'm Harsh Kumar
 <summary><b>⚡ cyrixninja's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/cyrixninja">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cyrixninja&show_icons=true" alt="cyrixninja">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrixninja" alt="cyrixninja">
 	</a>
@@ -85,7 +85,7 @@ Hi, I'm Harsh Kumar
 <br/>
 <p align="center">
 	<a href="https://github.com/cyrixninja">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="cyrixninja">
+		<img src="https://activity-graph.herokuapp.com/graph?username=cyrixninja&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="cyrixninja">
 	</a>
 </p>
 <br/>
