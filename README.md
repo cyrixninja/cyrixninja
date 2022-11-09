@@ -90,12 +90,4 @@ Hi, I'm Harsh Kumar
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/cyrixninja">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="cyrixninja">
-	</a>
-	<br/>
-<br/>
