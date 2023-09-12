@@ -19,6 +19,8 @@ Hi, I'm Harsh Kumar
 	<a href="https://www.linkedin.com/in/cyrixninja/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/cyrixninja"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	<a href="https://www.youtube.com/@cyrixninja1050"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
+        <a href="https://www.instagram.com/cyrixninja/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+	
 	</a>
 </p>
 
@@ -85,7 +87,7 @@ Hi, I'm Harsh Kumar
 <p>
     <a href="https://github.com/cyrixninja"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 	  <a href="https://github.com/cyrixninja"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+	<a href="https://github.com/cyrixninja"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 ### 🥅 Other
