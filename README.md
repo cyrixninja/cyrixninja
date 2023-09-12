@@ -98,8 +98,13 @@ Hi, I'm Harsh Kumar
 
 ## 📊 Github Stats
 <a href="https://github.com/cyrixninja">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cyrixninja&theme=tokyonight" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyrixninja&theme=tokyonight" />
+</a>
+
+
+<a href="https://github.com/cyrixninja">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyrixninja&theme=tokyonight&exclude={exclude}" />
 </a>
 <a href="https://github.com/cyrixninja">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrixninja&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyrixninja&theme=tokyonight" />
 </a>
