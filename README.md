@@ -21,7 +21,7 @@ Hi, I'm Harsh Kumar
 	<a href="https://www.youtube.com/@cyrixninja1050"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
         <a href="https://www.instagram.com/cyrixninja/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 	
-	</a>
+	
 </p>
 
 ## 🛠️ Tools  I Use
