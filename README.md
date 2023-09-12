@@ -9,6 +9,10 @@ Hi, I'm Harsh Kumar
 <img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png">
 <hr>
 
+## 🖥️ About Me
+<img src="https://raw.githubusercontent.com/cyrixninja/cyrixninja/961c849f855d321ddcf61c2d37971793bde5a69e/assets/anim.svg">
+
+
 ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:cyrixninja@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
