@@ -6,3 +6,4 @@ Hi, I'm Harsh Kumar
 </h1>
 
 <hr>
+![Header](https://raw.githubusercontent.com/cyrixninja/cyrixninja/main/assets/header.png)
