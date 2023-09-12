@@ -34,9 +34,15 @@ Hi, I'm Harsh Kumar
 ### 📚 Frameworks, Platforms and Libraries
 
 <p>
-        <a href="https://github.com/cyrixninja"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  <a href="https://github.com/cyrixninja" img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="https://github.com/cyrixninja"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
    <a href="https://github.com/cyrixninja"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="https://github.com/cyrixninja"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+        <a href="https://github.com/cyrixninja"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+	    <a href="https://github.com/cyrixninja"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+	    <a href="https://github.com/cyrixninja"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+	 <a href="https://github.com/cyrixninja"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+	 <a href="https://github.com/cyrixninja"><img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+	 <a href="https://github.com/cyrixninja"><img alt="ThreeJS" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
 </p>
 
 ### 🖥️ ML/DL
