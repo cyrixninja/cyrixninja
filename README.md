@@ -5,9 +5,7 @@ Hi, I'm Harsh Kumar
 	</a>
 </h1>
 
-<hr>
-<img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png">
-<hr>
+<img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png"><hr>
 
 ## 🖥️ About Me
 <img src="https://raw.githubusercontent.com/cyrixninja/cyrixninja/961c849f855d321ddcf61c2d37971793bde5a69e/assets/anim.svg">
