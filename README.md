@@ -101,14 +101,7 @@ Hi, I'm Harsh Kumar
 
 
 ## 📊 Github Stats
-<a href="https://github.com/cyrixninja">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyrixninja&theme=tokyonight" />
-</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cyrixninja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-<a href="https://github.com/cyrixninja">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyrixninja&theme=tokyonight&exclude={exclude}" />
-</a>
-<a href="https://github.com/cyrixninja">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyrixninja&theme=tokyonight" />
-</a>
