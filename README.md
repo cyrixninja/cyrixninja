@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Harsh Kumar
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/cyrixninja" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -103,5 +103,6 @@ Hi, I'm Harsh Kumar
 ## 📊 Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyrixninja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrixninja&show_icons=true&theme=tokyonight&hide_border=true)
 
 
