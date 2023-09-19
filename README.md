@@ -6,7 +6,7 @@ Hi, I'm Harsh Kumar
 </h1>
 
 
-<img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png">
+<img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png?raw=true">
 
 
 ## 🖥️ About Me
