@@ -100,6 +100,7 @@ Hi, I'm Harsh Kumar
 </p>
 
 <br>
+
 ## 📊 Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyrixninja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
