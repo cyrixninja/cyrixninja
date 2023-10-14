@@ -1,14 +1,12 @@
 
 <h1 align="center">
-
 Hi, I'm Harsh Kumar
 	<a href="https://github.com/cyrixninja" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
-
- [![An image of @cyrixninja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrixninja)](https://holopin.io/@cyrixninja)
 </h1>
 
+ [![An image of @cyrixninja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrixninja)](https://holopin.io/@cyrixninja)
 
 <img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png?raw=true">
 
