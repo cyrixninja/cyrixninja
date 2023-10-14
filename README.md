@@ -13,9 +13,6 @@ Hi, I'm Harsh Kumar
 <img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png?raw=true">
 
 
-## 🖥️ About Me
-<img src="https://raw.githubusercontent.com/cyrixninja/cyrixninja/209eb57c35823f59d133a37d8362815b639e9f6f/assets/term.svg">
-
 
 ## 🤝 Connect with me
 <p align="center">
