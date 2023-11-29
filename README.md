@@ -11,6 +11,7 @@ Hi, I'm Harsh Kumar
 
 ![Header](/assets/header.gif)
 
+## [Visit My Portfolio Website Here](https://cyrixninja.github.io/cyrixninja/)
 
 ## 🤝 Connect with me
 <p align="center">
