@@ -8,8 +8,8 @@ Hi, I'm Harsh Kumar
 
  [![An image of @cyrixninja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrixninja)](https://holopin.io/@cyrixninja)
 
-<img src="https://github.com/cyrixninja/cyrixninja/blob/main/assets/header-img.png?raw=true">
 
+![Header](/assets/header.gif)
 
 
 ## 🤝 Connect with me
