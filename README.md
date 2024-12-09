@@ -6,12 +6,10 @@ Hi, I'm Harsh Kumar
 	</a>
 </h1>
 
- [![An image of @cyrixninja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrixninja)](https://holopin.io/@cyrixninja)
-
 
 ![Header](/assets/header.gif)
 
-## [Visit My Portfolio Website Here](https://cyrixninja.github.io/cyrixninja/)
+## [Visit My Portfolio Website Here](https://portfoliowebsite-gamma-blush.vercel.app/)
 
 ## 🤝 Connect with me
 <p align="center">
@@ -30,12 +28,10 @@ Hi, I'm Harsh Kumar
 
 <p>
     <a href="https://github.com/cyrixninja"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+	<a href="https://github.com/cyrixninja"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a>
-    <a href="https://github.com/cyrixninja"><img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-	    <a href="https://github.com/cyrixninja"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
-     <a href="https://github.com/cyrixninja"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
       <a href="https://github.com/cyrixninja"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
     
 ### 📚 Frameworks, Platforms and Libraries
@@ -45,23 +41,6 @@ Hi, I'm Harsh Kumar
    <a href="https://github.com/cyrixninja"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
         <a href="https://github.com/cyrixninja"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-	    <a href="https://github.com/cyrixninja"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-	    <a href="https://github.com/cyrixninja"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-	 <a href="https://github.com/cyrixninja"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-	 <a href="https://github.com/cyrixninja"><img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-	 <a href="https://github.com/cyrixninja"><img alt="ThreeJS" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
-</p>
-
-### 🖥️ ML/DL
-
-<p>
-	<a href="https://github.com/cyrixninja"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-	<a href="https://github.com/cyrixninja"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
-	<a href="https://github.com/cyrixninja"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 </p>
 
 ### 💾 Databases
@@ -80,7 +59,6 @@ Hi, I'm Harsh Kumar
     <a href="https://github.com/cyrixninja"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
     <a href="https://github.com/cyrixninja"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="https://github.com/cyrixninja"><img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 </p>
 
 ### 👨‍💻 Operating System
@@ -107,4 +85,5 @@ Hi, I'm Harsh Kumar
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyrixninja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrixninja&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+## Holopins
+[![An image of @cyrixninja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyrixninja)](https://holopin.io/@cyrixninja)
